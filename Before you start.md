@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./react-intro.png" width="900" alt="React banner" />
+</p>
+
+
 # Before You Start React
 
   <p> React is easy to learn if you already know  some basics.</p>
