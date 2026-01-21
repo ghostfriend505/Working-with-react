@@ -33,9 +33,39 @@
   you include a rich mobile UI library comoponents. The best part of using react-native is to allow components 
   written in Objective-C,java or Swift.
 
-<h3>Single-Wat data flow</h3>
+<h3>Single-Way data flow</h3>
 
+In React, one-way data flow refers to the movement of data from parent components to child 
+components through props. This one way flow of data ensures that state and logic are
+centralized in parent components, while child components focus on rendering and presentation.
+Any update from child to parent components are achived using callback functions.
   
+<h3> Virtual Document Object Model </h3>
 
+React creates an in-memory data structure cache that computes the changes made and then update 
+the browser. This is a unique feature that allows programmers to code as if the whole page is 
+rendered on each time, but react library only renders components that changes.
 
+<h3> Why React Js is popular?</h3>
+
+React is efficient and flexible open-source JavaScript library for building simple, fast and 
+scalable fronted of web appications.
+
+<strong> Key Benefits Of React JS as a front-end development application </strong>
+
+🔹 Speed 
+
+🔹 Flexibility 
+
+🔹 Performance
+
+🔹 Usability
+
+🔹 Mobile app development
+
+🔹 It helps to build rich user interfaces 
+
+🔹 It offers fast rendering
+
+🔹 Strong community support
 
