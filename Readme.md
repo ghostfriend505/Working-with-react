@@ -19,7 +19,14 @@ Styling React apps with CSS
 
 Building small real-world projects
 
-  [Getting Started with React](./Getting-Started-with-React-JS.md)
+ ## 📘 Lessons
+
+| No | Topic |
+|----|------|
+| 01 | [Before You Start](./01-Before-you-start.md) |
+| 02 | [Introduction to React](./02-Introduction-to-React.md) |
+| 03 | [Getting Started with React](./03-Getting-started-with-react.md) |
+
 
 
 🛠️ Tech Stack
