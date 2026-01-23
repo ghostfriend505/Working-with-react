@@ -29,7 +29,7 @@ Building small real-world projects
 | 03   |    [Getting Started with React](./03-Getting-started-with-react.md) |
 | 04   |    [Components](./04-components.md) |
 | 05   |    [Events](./05-events.md) |
-
+| 06   |    [React Forms & Lists](./06-React-Forms-&-Lists.md)
 
 🛠️ Tech Stack
 
