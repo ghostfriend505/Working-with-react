@@ -21,15 +21,21 @@ Building small real-world projects
 
  ## 📘 Lessons
 
-| No   |         Topic |
-|----  |         ------|
-| 01   |    [Before You Start](./01-Before-you-start/01-Before-you-start.md) |
-| 02   |    [Introduction to React](./02-Introduction-To-React/02-Introduction-To-React.md) |
-| 02.5 |    [Introduction to Vite](./02.5-Vite-(@Latest)/02.5-Vite-(@Latest).md)
-| 03   |    [Getting Started with React](./03-Getting-Started-With-React/03-Getting-Started-With-React.md) |
-| 04   |    [Components](./04-Components/04-Components.md) |
-| 05   |    [Events](./05-Events/05-Events.md) |
-| 06   |    [React Forms & Lists](./06-React-Forms-&-Lists/06-React-Forms-&-Lists.md)
+| No | Topic |
+|----|-------|
+| 01 | [Before You Start](./01-Before-you-start/01-Before-you-start.md) |
+| 02 | [Introduction to React](./02-Introduction-To-React/02-Introduction-To-React.md) |
+| 02.5 | [Introduction to Vite (@latest)](./02.5-Vite-(@Latest)/02.5-Vite-(@Latest).md) |
+| 03 | [Getting Started with React](./03-Getting-Started-With-React/03-Getting-Started-With-React.md) |
+| 04 | [Components](./04-Components/04-Components.md) |
+| 05 | [Events](./05-Events/05-Events.md) |
+| 06 | [React Forms & Lists](./06-React-Forms-&-Lists/06-React-Forms-&-Lists.md) |
+| 07 | [React Component Lifecycle](./07-React-Component-Lifecycle/07-React-Component-Lifecycle.md) |
+| 08 | [React Hooks & Folder Structure](./08-React-Hooks-Folder-Structure/08-React-Hooks-Folder-Structure.md) |
+| 08.1 | [Advance Hooks & Performance Optimization](./08-React-Hooks-Folder-Structure/08.1-Advance-Hooks-&-Performance-Optimization.md) |
+| 09 | [Component Communication & Optimization](./09-Component-Communication-&-Optimization/09-Component-Communication-&-Optimization.md) |
+| 10 | [Higher Order Functions & React Performance](./10-Higher-Order-Functions-&-React-Performance/10-Higher-Order-Functions-&-React-Performance.md) |
+
 
 🛠️ Tech Stack
 
